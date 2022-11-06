@@ -1,0 +1,1 @@
+# Ust_Limite_Kadarki_Tek_Cift_Toplam_Carpim_Ort
