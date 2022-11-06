@@ -36,7 +36,6 @@ int main()
       TeklerinCarpimi *= i;
       TekAdeti++;
      }
-     
    }
    
    printf("\n%d sayisina kadar olan cift sayilarin toplami: %d\n",sayi,CiftlerinToplami);
